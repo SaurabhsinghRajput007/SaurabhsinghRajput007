@@ -1,4 +1,4 @@
-![logo](https://github.com/SaurabhsinghRajput007/SaurabhsinghRajput007/blob/main/Saurabhsingh rajput.png)
+![logo](https://github.com/SaurabhsinghRajput007/SaurabhsinghRajput007/blob/main/Saurabhsingh%20rajput.png))
 <h1 align="center">Hi 👋, I'm Saurabhsingh Rajput</h1>
 <h3 align="center">"Transforming Data into Actionable Intelligence: Empowering Business Insights"</h3>
 
