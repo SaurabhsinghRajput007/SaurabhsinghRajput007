@@ -1,4 +1,4 @@
-![logo](https://github.com/SaurabhsinghRajput007/SaurabhsinghRajput007/blob/main/Gray%20Simple%20Designer%20Linkedin%20Banner.png)
+![logo](https://github.com/SaurabhsinghRajput007/SaurabhsinghRajput007/blob/main/Saurabhsingh rajput.png)
 <h1 align="center">Hi 👋, I'm Saurabhsingh Rajput</h1>
 <h3 align="center">"Transforming Data into Actionable Intelligence: Empowering Business Insights"</h3>
 
